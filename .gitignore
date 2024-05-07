@@ -1,0 +1,6 @@
+# Ignore a /data directory tha is used for storing uploaded files
+/data/
+
+# top-level go.mod is not meant to be checked in
+/go.mod
+/go.sum
